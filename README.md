@@ -10,7 +10,7 @@
 <p>1. Clone the repo</p>
 
 ```
-git clone https://github.com/sarikayarslan/IoB_Recommandation_Engine.git
+git clone https://github.com/sarikayarslan/IoB_Recommendation_Engine.git
 ```
 <p>2. Install requirements</p>
 
