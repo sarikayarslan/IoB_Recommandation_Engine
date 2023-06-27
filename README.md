@@ -12,20 +12,24 @@
 ```
 git clone https://github.com/sarikayarslan/IoB_Recommandation_Engine.git
 ```
+<p>2. Install requirements</p>
 
-<p>2. Connect recomandationApp to firebase</p>
+```
+ pip install -r requirements.txt 
+```
+  
+<p>3. Connect recomandationApp to firebase</p>
 
 ```
 \recommandationapp\android\app\google-services.json" 
 ```
 
-<p>3. Connect the database to the RFM analysis and implement a push mechanism</p>
+<p>4. Connect the database to the RFM analysis and implement a push mechanism</p>
 
 ```
 \rfm_analysis\serviceAccountKey.json"
 ```
 
-  
   
 <h2>💻 Built with</h2>
 
