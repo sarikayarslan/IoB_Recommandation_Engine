@@ -1,4 +1,4 @@
-<h1 align="center" id="title">IoB_Recomandation_Engine</h1>
+<h1 align="center" id="title">IoB_Recommandation_Engine</h1>
 
 <p align="center"><img src="https://socialify.git.ci/sarikayarslan/IoB_Recommandation_Engine/image?font=Jost&amp;name=1&amp;owner=1&amp;pattern=Circuit%20Board&amp;theme=Light" alt="project-image"></p>
 <h2> Desctription:</h2>
