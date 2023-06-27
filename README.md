@@ -31,10 +31,10 @@ git clone https://github.com/sarikayarslan/IoB_Recommandation_Engine.git
 
 Technologies used in the project:
 *   Flutter v3.10.2
-      geolocator 9.0.2 
+      <br>  geolocator 9.0.2 
 *   Python v3.9.0
-      pandas v1.2.4
-      numpy v1.23.4
-      matplotlib v3.6.2
-      flask v2.3.2
+      <br>pandas v1.2.4
+      <br>numpy v1.23.4
+      <br>matplotlib v3.6.2
+      <br>flask v2.3.2
 *   Firebase
